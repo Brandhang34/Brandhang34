@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/e6/f7/d3/e6f7d34c80ef47899caaf3edb02e72c1.gif)](https://brandonhang.co)
+[![MasterHead](https://i.gifer.com/E8mi.gif)](https://brandonhang.co)
 <h1 align="center">Hi 👋, I'm Brandon</h1>
 <h3 align="center">I am a student attending California State University, Fresno as well as a Systems Administrator (student assistant). I really enjoy working with cloud technologies, automation, virtualization, and IT solutions. I love to learn new things and found out that I am a generalist, so some of the projects will be a mixture of different technologies. Here I hope to display some personal projects and even some projects done in college as a way to leverage my career or to just provide to the community!</h3>
 
@@ -7,8 +7,6 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brandhang34&label=Profile%20views&color=005285&style=flat" alt="brandhang34" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brandhang34" alt="brandhang34" /></a> </p>
 
 - 👨‍💻 Personal Portfolio Website [brandonhang.co](brandonhang.co)
 
