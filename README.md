@@ -1,4 +1,4 @@
-[![MasterHead](https://i.gifer.com/E8mi.gif)](https://brandonhang.co)
+[![MasterHead](https://indoanalytica.com/static/images/bannerr.gif)](https://brandonhang.co)
 <h1 align="center">Hi 👋, I'm Brandon</h1>
 <h3 align="center">I am a student attending California State University, Fresno as well as a Systems Administrator (student assistant). I really enjoy working with cloud technologies, automation, virtualization, and IT solutions. I love to learn new things and found out that I am a generalist, so some of the projects will be a mixture of different technologies. Here I hope to display some personal projects and even some projects done in college as a way to leverage my career or to just provide to the community!</h3>
 
@@ -22,10 +22,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/brandhang34" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="brandhang34" height="30" width="40" /></a>
 <a href="https://twitter.com/brandhang34" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="brandhang34" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/brandon-hang-a8a2b220b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brandon-hang-a8a2b220b" height="30" width="40" /></a>
 <a href="https://fb.com/brandonhang34" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="brandonhang34" height="30" width="40" /></a>
+<a href="https://dev.to/brandhang34" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="brandhang34" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
