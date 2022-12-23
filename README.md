@@ -1,5 +1,10 @@
+[![MasterHead](https://i.pinimg.com/originals/e6/f7/d3/e6f7d34c80ef47899caaf3edb02e72c1.gif)](https://brandonhang.co)
 <h1 align="center">Hi 👋, I'm Brandon</h1>
 <h3 align="center">I am a student attending California State University, Fresno as well as a Systems Administrator (student assistant). I really enjoy working with cloud technologies, automation, virtualization, and IT solutions. I love to learn new things and found out that I am a generalist, so some of the projects will be a mixture of different technologies. Here I hope to display some personal projects and even some projects done in college as a way to leverage my career or to just provide to the community!</h3>
+
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brandhang34&label=Profile%20views&color=005285&style=flat" alt="brandhang34" /> </p>
 
@@ -7,7 +12,11 @@
 
 - 👨‍💻 Personal Portfolio Website [brandonhang.co](brandonhang.co)
 
-- 📫 How to reach me **brandonhang34@outlook.com**
+- 🌱 I’m currently learning **Python, AWS, Devops tools**
+
+- 📄 Know about my experiences [https://docs.google.com/document/d/1iK2ea-Xkj9EIP-BI0IlfTOou9K1rdK93/edit?usp=sharing&ouid=116868952587173731159&rtpof=true&sd=true](https://docs.google.com/document/d/1iK2ea-Xkj9EIP-BI0IlfTOou9K1rdK93/edit?usp=sharing&ouid=116868952587173731159&rtpof=true&sd=true)
+
+- 📫 How out to reach me **brandonhang34@outlook.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
