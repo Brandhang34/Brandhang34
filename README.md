@@ -1,8 +1,8 @@
 ![E8mi](https://user-images.githubusercontent.com/98430458/209259611-fb2a46e3-5fb8-4b4e-bfe5-1d518f1dfcaa.gif)
 <h1 align="center">Hi 👋, I'm Brandon</h1>
-<h3 align="center">A passionate Systems Admin from Fresno</h3>
+<h3 align="center">A Platform engineer</h3>
 
-<p>I am a recent graducate from California State University, Fresno as well as a Systems Administrator (student assistant). I really enjoy working with cloud technologies, automation, virtualization, and IT solutions. I love to learn new things and found out that I am a generalist, so some of the projects will be a mixture of different technologies. Here I hope to display some personal projects and even some projects done in college as a way to leverage my career or to just provide to the community!</p>
+<p>I really enjoy working with cloud technologies, automation, virtualization, and IT solutions. I love to learn new things and found out that I am a generalist, so some of the projects will be a mixture of different technologies. Here I hope to display some personal projects and even some projects done in college as a way to leverage my career or to just provide to the community!</p>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
